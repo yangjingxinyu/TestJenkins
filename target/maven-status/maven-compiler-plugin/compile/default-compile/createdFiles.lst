@@ -1,0 +1,10 @@
+controller\TestSwaggerController.class
+bean\UserExample.class
+bean\UserExample$Criteria.class
+bean\UserExample$Criterion.class
+controller\Application.class
+mapper\UserMapper.class
+bean\UserExample$GeneratedCriteria.class
+test\domain\User.class
+bean\User.class
+controller\UserController.class
